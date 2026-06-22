@@ -1,0 +1,21 @@
+{
+  "owner_chat_id": null,
+  "last_update_id": 0,
+  "trip_duration_minutes": 45,
+  "cars": [
+    {
+      "name": "Mashina 1",
+      "model": "Chevrolet Cobalt",
+      "driver": "Komil aka",
+      "adult_capacity": 4,
+      "child_capacity": 6
+    },
+    {
+      "name": "Mashina 2",
+      "model": "Chevrolet Lacetti",
+      "driver": "Muhammad Xudoyorxon",
+      "adult_capacity": 4,
+      "child_capacity": 6
+    }
+  ]
+}
