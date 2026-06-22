@@ -11,6 +11,9 @@ permissions:
 jobs:
   run-bot:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: oila-safar-bot
     steps:
       - name: Repository kodini olish
         uses: actions/checkout@v4
